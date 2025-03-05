@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 iOS Developer | Engineering Manager
 
-I tried implementing a sorting algorithm once... but my coffee got cold before it finished. So now I just stick to sort() and drink in peace. ☕😆
+I tried implementing a sorting algorithm once... but my coffee got cold before it finished. So now I just stick to sort() and drink in peace. ☕
 
 ### 🛠️ Tech Stack
 - **Languages and Frameworks:** Swift, SwiftUI, UIKit
