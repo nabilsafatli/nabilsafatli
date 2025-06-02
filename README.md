@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 👨🏻‍💻 iOS Developer | Engineering Manager
+## 👨🏻‍💻 Software Engineer | Engineering Manager
 
 I tried implementing a sorting algorithm once... but my coffee got cold before it finished. So now I just stick to sort() and drink in peace. ☕
 
