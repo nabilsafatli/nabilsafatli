@@ -5,7 +5,7 @@
 I tried implementing a sorting algorithm once... but my coffee got cold before it finished. So now I just stick to sort() and drink in peace. ☕
 
 ### 🛠️ Tech Stack
-- **Languages and Frameworks:** Java, Swift, SwiftUI, UIKit, React, Javascript (basically what that gets a problem solved 😃)
+- **Languages and Frameworks:** Java, Swift, SwiftUI, UIKit, React, Javascript (basically what gets a problem solved 😃)
 - **Tools:** Xcode, Git, CI/CD, Fastlane, AWS, GCP
 
 
